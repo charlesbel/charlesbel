@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, it's <a href="//twitter.com/hash3liZer">Charles</a> </h2> 
+<h2 align="center">👋 Hi, it's <a href="https://twitter.com/charles_b87">Charles</a> </h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%233572A5.svg?&style=for-the-badge&logo=python&logoColor=white"/>
