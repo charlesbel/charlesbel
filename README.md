@@ -15,7 +15,7 @@
 
 <h2 align="center">✉️ Contact Me</h2>
 <p align="center">
-  <a href="https://twitter.com/charles_b87" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/charles__bel" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discordapp.com/users/539834141450043435" target="_blank"><img src="https://img.shields.io/badge/discord-%237489DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://t.me/charlesbel" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
