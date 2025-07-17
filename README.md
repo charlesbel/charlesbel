@@ -31,5 +31,6 @@
 <h2 align="center">📈 Quick Stats </h2> 
 
 <p align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=charlesbel&show_icons=true&theme=radical" alt="My stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbel&layout=compact&show_icons=true&theme=radical" alt="Most Used Languages">
 </p>
