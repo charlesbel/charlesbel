@@ -68,10 +68,14 @@
 ### 🔐 Cybersecurity Tools
 
 <p>
-  <img alt="Evilginx2" src="https://img.shields.io/badge/Evilginx2-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img alt="Ghidra" src="https://img.shields.io/badge/Ghidra-EF1C25?style=for-the-badge&logo=reverbnation&logoColor=white"/>
+  <img alt="IDA Free" src="https://img.shields.io/badge/IDA_Free-FF6C37?style=for-the-badge&logo=hex-rays&logoColor=white"/>
+  <img alt="x64dbg" src="https://img.shields.io/badge/x64dbg-1E88E5?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img alt="Detect It Easy" src="https://img.shields.io/badge/Detect_It_Easy-9C27B0?style=for-the-badge&logo=search&logoColor=white"/>
   <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img alt="nmap" src="https://img.shields.io/badge/nmap-0E83CD?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-FF6C37?style=for-the-badge&logo=password&logoColor=white"/>
+  <img alt="Evilginx2" src="https://img.shields.io/badge/Evilginx2-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
   <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 </p>
 
