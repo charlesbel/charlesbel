@@ -106,8 +106,8 @@
 <a href="https://github.com/charlesbel/Microsoft-Rewards-Farmer">
   <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=Microsoft-Rewards-Farmer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Microsoft Rewards Farmer" />
 </a>
-<a href="https://github.com/charlesbel/Evilginx2-Phishlets">
-  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=Evilginx2-Phishlets&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Evilginx2 Phishlets" />
+<a href="https://github.com/charlesbel/REAgent">
+  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=REAgent&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Gmail Code Catcher" />
 </a>
 
 <br/>
@@ -115,8 +115,8 @@
 <a href="https://github.com/charlesbel/secure-saas-architecture-showcase">
   <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=secure-saas-architecture-showcase&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Secure SaaS Architecture Showcase" />
 </a>
-<a href="https://github.com/charlesbel/GmailCodeCatcher">
-  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=GmailCodeCatcher&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Gmail Code Catcher" />
+<a href="https://github.com/charlesbel/Evilginx2-Phishlets">
+  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=Evilginx2-Phishlets&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Evilginx2 Phishlets" />
 </a>
 
 <br/>
