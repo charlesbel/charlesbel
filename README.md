@@ -112,8 +112,8 @@
 
 <br/>
 
-<a href="https://github.com/charlesbel/secure-saas-architecture-showcase">
-  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=secure-saas-architecture-showcase&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Secure SaaS Architecture Showcase" />
+<a href="https://github.com/charlesbel/Jellyfin.Plugin.Allocine">
+  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=Jellyfin.Plugin.Allocine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Jellyfin.Plugin.Allocine" />
 </a>
 <a href="https://github.com/charlesbel/Evilginx2-Phishlets">
   <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=charlesbel&repo=Evilginx2-Phishlets&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Evilginx2 Phishlets" />
@@ -128,6 +128,9 @@
 </a>
 <a href="https://github.com/Datalux/Osintgram">
   <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=Datalux&repo=Osintgram&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Osintgram" />
+</a>
+<a href="https://github.com/MakD/Jellyfin-Media-Bar">
+  <img src="https://github-readme-stats-bice-iota-93.vercel.app/api/pin/?username=MakD&repo=Jellyfin-Media-Bar&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Osintgram" />
 </a>
 
 <br/>
